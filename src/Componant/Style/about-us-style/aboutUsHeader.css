@@ -1,0 +1,39 @@
+/* --------------start header---------- */
+header{
+    
+    background-color: rgb(90, 152, 209);
+    position: relative;
+    height: 500px;
+}
+.header-img {
+    position: absolute;
+    width: 788.5px;
+    height: 500px;
+    right: 0;
+    bottom: 0;
+}
+header nav{
+    
+    margin: -43px auto;
+
+
+}
+
+nav li span{
+    padding: 4px;
+}
+header ul{
+    font-weight: bold;
+}
+header .row .content1{
+    font-size: xx-large;
+}
+header .row .content1{
+    padding-right: 90px;
+}
+.content1 p {
+    padding: 24px 0;
+    color: #686058;
+    line-height: 43px;
+    font-size: 31px;
+}
